@@ -7,7 +7,7 @@ https://zetaspace.store Feel free to trust the code.
 https://fair-audit.finance  -  Soon
 
 ### Solidity Finance : 
-https://solidity.finance/  -  Soon
+https://solidity.finance  -  Soon
 
 ### Certik : 
-https://www.certik.org/  -  Soon
+https://www.certik.org  -  Soon
